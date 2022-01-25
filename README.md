@@ -1,5 +1,5 @@
 # Website For Gaming At School!
 
-Mare Games Coming Soon!
+More Games Coming Soon!
 
 schoolgaminghd.github.io/eaglercraft.html
