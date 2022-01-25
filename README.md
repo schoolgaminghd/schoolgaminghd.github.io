@@ -2,4 +2,4 @@
 
 Mare Games Coming Soon!
 
-[eaglercraft](schoolgaminghd.github.io/eaglercraft.html)
+schoolgaminghd.github.io/eaglercraft.html
