@@ -2,4 +2,4 @@
 
 Mare Games Coming Soon!
 
-[schoolgaminghd.github.io]
+schoolgaminghd.github.io
