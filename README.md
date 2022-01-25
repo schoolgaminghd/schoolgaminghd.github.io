@@ -1,3 +1,3 @@
-# schoolgaminghd.github.io
-Website For School Gaming!
+# Website For Gaming At School!
+
 [eaglercraft](schoolgaminghd.github.io/index.html)
