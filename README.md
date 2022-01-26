@@ -2,4 +2,4 @@
 
 More Games Coming Soon!
 
-schoolgaminghd.github.io/eaglercraft.html
+schoolgaminghd.github.io/ayuncraft.html
