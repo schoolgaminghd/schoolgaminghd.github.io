@@ -2,4 +2,4 @@
 
 More Games Coming Soon!
 
-schoolgaminghd.github.io/ayuncraft.html
+schoolgaminghd.github.io/minecraft/index.html
